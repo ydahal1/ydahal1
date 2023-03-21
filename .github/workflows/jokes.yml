@@ -1,23 +1,21 @@
 name: generate Jokes
-
-on:
-  # run automatically every 24 hours
+'on':
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-
+    - cron: 0 */24 * * *
+  workflow_dispatch: null
 jobs:
   get-joke:
     runs-on: ubuntu-latest
     steps:
       - name: Make API request
-        run: |
-          curl --location --request POST 'https://api.openai.com/v1/engines/davinci-codex/completions' \
+        run: >
+          curl --location --request POST
+          'https://api.openai.com/v1/engines/davinci-codex/completions' \
+
           --header 'Content-Type: application/json' \
+
           --header 'Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}' \
+
           --data-raw '{
               "prompt": "3 jokes related to software engineering. Put them in a JS array.",
               "temperature": 0.5,
@@ -25,8 +23,18 @@ jobs:
               "n": 1,
               "stop": "\n"
           }' > response.json
-      
-      - name: Parse response
-        run: echo $(jq -r '.choices[0].text' response.json)
-
-
+      - name:  Print response
+        run: cat response
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Add response file
+        run: git add response.json
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add response data" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: '${{ secrets.GITHUB_TOKEN }}'
