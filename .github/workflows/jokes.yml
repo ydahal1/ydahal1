@@ -24,7 +24,7 @@ jobs:
               "stop": "\n"
           }' > response.json
       - name:  Print response
-        run: cat response
+        run: cat response.json
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Add response file
