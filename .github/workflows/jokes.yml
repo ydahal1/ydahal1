@@ -23,7 +23,7 @@ jobs:
             Content-Type: application/json
           data: |
             {
-              "prompt": "Tell me a joke",
+              "prompt": "3 jokes related to software enginnering. put in JS array",
               "max_tokens": 20,
               "n": 1,
               "stop": "\n"
