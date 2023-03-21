@@ -10,20 +10,23 @@ on:
   
 
 jobs:
-  generate-jokes:
+  get-joke:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Set up Docker environment
-        uses: docker/setup-docker@v2
-      - name: Generate jokes and save to file
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Make API request
         run: |
-          docker run -i openai/cli /bin/bash -c "openai api completions.create -e davinci-codex -d '{\"prompt\":\"3 jokes related to software engineering. Put them in a JS array.\", \"temperature\":0.5, \"max_tokens\":50, \"n\":1, \"stop\":\"\\n\"}' > jokes.json && cat jokes.json | jq -r '.choices[].text' > jokes.txt"
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Add jokes to jokes.txt"
-          commit_options: '--no-verify --signoff'
+          curl --location --request POST 'https://api.openai.com/v1/engines/davinci-codex/completions' \
+          --header 'Content-Type: application/json' \
+          --header 'Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}' \
+          --data-raw '{
+              "prompt": "3 jokes related to software engineering. Put them in a JS array.",
+              "temperature": 0.5,
+              "max_tokens": 50,
+              "n": 1,
+              "stop": "\n"
+          }' > response.json
+      
+      - name: Parse response
+        run: echo $(jq -r '.choices[0].text' response.json)
+
+
