@@ -7,6 +7,14 @@ jobs:
   get-joke:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: location and list files
+        run : |
+          pwd
+          ls
+          
       - name: Make API request
         run: >
           curl --location --request POST
@@ -21,21 +29,9 @@ jobs:
              "messages": [{"role": "user", "content": "write a 4 line poem about cow "}],
               "temperature": 0.7
           }' > response.json
+          
       - name:  Print response
         run: cat response.json
-        
-#       - name: location and list files
-#         run : |
-#           pwd
-#           ls
-        
-      - name: Checkout code
-        uses: actions/checkout@v2
-        
-      - name: location and list files
-        run : |
-          pwd
-          ls
         
       - name: Add response file
         run: git add .
