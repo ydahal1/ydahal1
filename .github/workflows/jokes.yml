@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make API request
-        uses: actions/http-request@v1
+        uses: supercharge/axios-action@v3
         with:
           url: https://api.openai.com/v1/engines/davinci-codex/completions
           method: POST
@@ -31,4 +31,4 @@ jobs:
           output-file: response.json
       
       - name: Parse response
-        run: echo $(jq -r '.choices[0].text' response.json)
+        run: echo $(jq -r '.data.choices[0].text' response.json)
