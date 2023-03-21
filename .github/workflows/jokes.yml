@@ -14,17 +14,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make API request
-        uses: actions/http-client@v2
+        uses: actions/http-client@v1
         with:
           url: https://api.openai.com/v1/engines/davinci-codex/completions
           method: POST
           headers: |
             Authorization: Bearer ${{ secrets.OPEN_AI_API_KEY }}
             Content-Type: application/json
-          body: |
+          data: |
             {
-              "prompt": "3 jokes related to software enginnering. put in JS array",
-              "max_tokens": 20,
+              "prompt": "3 jokes related to software engineering. Put them in a JS array.",
+              "temperature": 0.5,
+              "max_tokens": 50,
               "n": 1,
               "stop": "\n"
             }
