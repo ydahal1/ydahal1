@@ -24,13 +24,18 @@ jobs:
       - name:  Print response
         run: cat response.json
         
+#       - name: location and list files
+#         run : |
+#           pwd
+#           ls
+        
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
       - name: location and list files
         run : |
           pwd
           ls
-        
-      - name: Checkout code
-        uses: actions/checkout@v2
         
       - name: Add response file
         run: git add .
