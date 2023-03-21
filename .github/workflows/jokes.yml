@@ -23,10 +23,18 @@ jobs:
           }' > response.json
       - name:  Print response
         run: cat response.json
+        
+      - name: location and list files
+        run : |
+          pwd
+          ls
+        
       - name: Checkout code
         uses: actions/checkout@v2
+        
       - name: Add response file
         run: git add response.json
+        
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
