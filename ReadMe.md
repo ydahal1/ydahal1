@@ -6,7 +6,7 @@
 
 
 I know you are here for jokes, No worries !!
-Here are some new ones keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions!
+Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions!
 
      Wed Mar 22 03:19:02 UTC 2023
 
