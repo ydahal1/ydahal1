@@ -26,7 +26,8 @@ jobs:
               "messages": [{"role": "user", "content": "Give me four jokes related to software engineering or cyber security "}],
               "temperature": 0.7
             }')
-          content_value=$(echo "$api_response" | jq -r '.choices[0].message')
+          content_value=$(echo "$api_response" | jq -r '.choices[0].message.content')
+          echo " " >> ReadMe.md
           echo "$content_value" >> ReadMe.md
           
 #       - name:  Print response
