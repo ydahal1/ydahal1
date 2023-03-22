@@ -21,3 +21,11 @@ Look, let me tell you something, okay? You're here for jokes, and that's great. 
 3) Why did the computer go to the doctor? It had a virus!
 
 4) Why do programmers prefer dark mode? Because light attracts bugs.
+
+date
+
+
+1. Why do cyber security experts always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.
+2. Why was the computer cold? Because it left its Windows open!
+3. Why did the software developer go broke? Because he used up all his cache.
+4. Why did the computer go to the doctor? Because it had a virus!
