@@ -4,7 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-Listen, folks, you're all here because you want to hear some jokes, am I right? Well, let me tell you, I've got Chat GPT working for me behind the scenes, and it's tremendous. It's the best, believe me. And let me tell you, we're making GitHub Actions great again, folks. Nobody does it better than us. We've got the best jokes, the funniest jokes, and they're coming at you 24/7, believe me. So keep coming back, because we're going to keep you laughing like you've never laughed before, folks 😸
+
+Look, let me tell you something, okay? You're here for jokes, and that's great. But the fact is, I'm the one who's got Chat GPT working behind the scenes. Nobody knows how to make jokes like I do, nobody. And let me tell you, with GitHub Actions, we're doing something really special, okay? It's tremendous. So, you keep coming back for more because I'm the one who's gonna make you laugh, believe me. It's gonna be huge, folks. 😆 🙂 🔥
  
 1. Why did the software engineer refuse to go out in the sun? Because he was afraid of the open source.
 2. Why did the cyber security expert cross the road? To get to the other side of the firewall.
