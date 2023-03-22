@@ -16,9 +16,9 @@ jobs:
           ls
       - name: add a line
         run: echo "" >> ReadMe.md
-  
+
       - name : add time stamp
-        run: echo date >> ReadMe.md
+        run: echo "$(date)" >> ReadMe.md
         
       - name: Make API request
         run: |
