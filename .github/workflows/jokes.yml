@@ -14,7 +14,12 @@ jobs:
         run : |
           pwd
           ls
-          
+      - name: add a line
+        run: echo "" >> ReadMe.md
+  
+      - name : add time stamp
+        run: echo date >> ReadMe.md
+        
       - name: Make API request
         run: |
           api_response=$(curl --location --request POST \
@@ -27,7 +32,6 @@ jobs:
               "temperature": 0.7
             }')
           content_value=$(echo "$api_response" | jq -r '.choices[0].message.content')
-          echo " " >> ReadMe.md
           echo "$content_value" >> ReadMe.md
           
 #       - name:  Print response
