@@ -29,3 +29,14 @@ date
 2. Why was the computer cold? Because it left its Windows open!
 3. Why did the software developer go broke? Because he used up all his cache.
 4. Why did the computer go to the doctor? Because it had a virus!
+
+Wed Mar 22 03:06:18 UTC 2023
+
+
+1. Why did the developer quit his job? He didn't get arrays.
+
+2. Why did the malware go to school? It wanted to learn how to byte.
+
+3. Why do programmers prefer dark mode? Because light attracts bugs.
+
+4. Why did the hacker break up with his girlfriend? She kept changing her password.
