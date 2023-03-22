@@ -16,25 +16,24 @@ jobs:
           ls
           
       - name: Make API request
-        run: >
-          curl --location --request POST
-          'https://api.openai.com/v1/chat/completions' \
-
-          --header 'Content-Type: application/json' \
-
-          --header 'Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}' \
-
-          --data-raw '{
-             "model": "gpt-3.5-turbo",
-             "messages": [{"role": "user", "content": "Give me four jokes related to software engineering or cyber security "}],
+        run: |
+          api_response=$(curl --location --request POST \
+            'https://api.openai.com/v1/chat/completions' \
+            --header 'Content-Type: application/json' \
+            --header 'Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}' \
+            --data-raw '{
+              "model": "gpt-3.5-turbo",
+              "messages": [{"role": "user", "content": "Give me four jokes related to software engineering or cyber security "}],
               "temperature": 0.7
-          }' >> jokes.txt
+            }')
+          content_value=$(echo "$api_response" | jq -r '.choices[0].message')
+          echo "$content_value" >> ReadMe.md
           
-      - name:  Print response
-        run: cat jokes.txt
+#       - name:  Print response
+#         run: cat jokes.txt
         
-      - name: Concatenate response to readme.md file
-        run: cat jokes.txt >> ReadMe.md
+#       - name: Concatenate response to readme.md file
+#         run: cat jokes.txt >> ReadMe.md
         
       - name: Add response file
         run: git add .
@@ -47,14 +46,4 @@ jobs:
           commit-message: 'publish'
           force-add: 'true'
           name: Lion Tamer
-#           email: yad
-        
-#       - name: Commit changes
-#         run: |
-#           git config --local user.email "action@github.com"
-#           git config --local user.name "GitHub Action"
-#           git commit -m "Add response data" -a
-#       - name: Push changes
-#         uses: ad-m/github-push-action@master
-#         with:
-#           github_token: '${{ secrets.ACTIONS }}'
+
