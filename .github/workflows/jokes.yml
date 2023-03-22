@@ -35,13 +35,23 @@ jobs:
         
       - name: Add response file
         run: git add .
-        
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Add response data" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      
+      - name: push
+        uses: github-actions-x/commit@v2.9
         with:
-          github_token: '${{ secrets.ACTIONS }}'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: 'publish'
+          force-add: 'true'
+          name: Lion Tamer
+#           email: yad
+        
+#       - name: Commit changes
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git commit -m "Add response data" -a
+#       - name: Push changes
+#         uses: ad-m/github-push-action@master
+#         with:
+#           github_token: '${{ secrets.ACTIONS }}'
