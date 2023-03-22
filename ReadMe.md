@@ -11,4 +11,4 @@
 
 Check back for more jokes :smile: I've got Chat GPT working behind the scenes, and I've even set it up with GitHub Actions! It's like having my own personal comedian on call 24/7. So, keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions!
 
-<!-- include(test.md) -->
+<!-- include(jokes.md) -->
