@@ -4,15 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-- Why did the JavaScript developer wear glasses? Because he couldn't C#!
-- Why do software developers prefer dark mode? Because light attracts bugs!
-- Why did the JavaScript developer go broke? He used up all his cache!
-
-
-Check back for more jokes :smile: I've got Chat GPT working behind the scenes, and I've even set it up with GitHub Actions! It's like having my own personal comedian on call 24/7. So, keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions!
+Listen, folks, you're all here because you want to hear some jokes, am I right? Well, let me tell you, I've got Chat GPT working for me behind the scenes, and it's tremendous. It's the best, believe me. And let me tell you, we're making GitHub Actions great again, folks. Nobody does it better than us. We've got the best jokes, the funniest jokes, and they're coming at you 24/7, believe me. So keep coming back, because we're going to keep you laughing like you've never laughed before, folks 😸
  
-
-
 1. Why did the software engineer refuse to go out in the sun? Because he was afraid of the open source.
 2. Why did the cyber security expert cross the road? To get to the other side of the firewall.
 3. Why do programmers prefer dark mode? Because light attracts bugs.
