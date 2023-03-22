@@ -28,10 +28,13 @@ jobs:
              "model": "gpt-3.5-turbo",
              "messages": [{"role": "user", "content": "Give me four jokes related to software engineering or cyber security "}],
               "temperature": 0.7
-          }' >> jokes.json
+          }' >> jokes.txt
           
       - name:  Print response
-        run: cat jokes.json
+        run: cat jokes.txt
+        
+      - name: Concatenate response to readme.md file
+        run: cat ReadMe.md jokes.txt > ReadMe.md
         
       - name: Add response file
         run: git add .
