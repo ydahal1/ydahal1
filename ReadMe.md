@@ -23,3 +23,9 @@ Here are some new ones. Keep checking back for more laugh-out-loud jokes, brough
 2. Why did the cyber criminal fail his certification exam? He didn't have the password.
 3. Why did the software developer go broke? He used up all his cache.
 4. Why did the network security expert cross the road? To get to the other subnet.
+
+     Fri Mar 24 01:19:26 UTC 2023
+1. Why do programmers prefer dark mode? Because light attracts bugs.
+2. Why did the cyber security expert break up with his girlfriend? She kept sharing all his passwords.
+3. What did the software engineer say when their code didn't work? "I guess I'll just throw an exception to the rule."
+4. Why do hackers always look tired? They're always up late trying to decrypt.
