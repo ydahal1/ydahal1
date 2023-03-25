@@ -15,3 +15,9 @@ Here are some new ones. Keep checking back for more laugh-out-loud jokes, brough
 2. Why do programmers prefer dark mode? Because light attracts bugs.
 3. Why was the cyber criminal arrested? He left his IP address on the scene of the crime.
 4. Why did the software engineer get a job at the circus? He was good at debugging.
+
+     Sat Mar 25 01:17:42 UTC 2023
+1. Why did the software engineer quit his job? He didn't get arrays.
+2. Why do hackers prefer Linux? Because it's a kernel-based operating system.
+3. Why did the cyber security expert refuse to leave his house? He was afraid of packet loss.
+4. Why was the computer cold? Because it left its Windows open.
