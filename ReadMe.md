@@ -21,3 +21,12 @@ Here are some new ones. Keep checking back for more laugh-out-loud jokes, brough
 2. Why do hackers prefer Linux? Because it's a kernel-based operating system.
 3. Why did the cyber security expert refuse to leave his house? He was afraid of packet loss.
 4. Why was the computer cold? Because it left its Windows open.
+
+     Sun Mar 26 01:26:08 UTC 2023
+1. Why did the programmer quit his job? He didn't get arrays.
+
+2. What do you call it when a hacker gets a job at a bank? A cyber teller.
+
+3. Why did the computer go to the doctor? It had a virus.
+
+4. Why did the developer go broke? He used up all his cache.
