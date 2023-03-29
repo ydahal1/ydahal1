@@ -1,4 +1,4 @@
-name: generate Jokes
+name: Update Readme
 'on':
   schedule:
     - cron: 0 */24 * * *
