@@ -6,7 +6,7 @@
 
 
 I know you are here for jokes, No worries !!
-Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! If they are not funny blame OpenAI
+Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
 
      Tue Mar 28 01:22:51 UTC 2023
 1. Why did the software engineer quit his job? He didn't get arrays.
