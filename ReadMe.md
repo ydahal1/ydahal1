@@ -21,3 +21,12 @@ Here are some new ones. Keep checking back for more laugh-out-loud jokes, brough
 2. Why did the hacker quit his job? He didn't get root access.
 3. Why did the cyber security expert wear a mask to work? To protect himself from viruses.
 4. Why did the computer go to the doctor? It had a virus.
+
+     Wed Mar 29 01:35:46 UTC 2023
+1. Why do programmers prefer dark mode? Because light attracts bugs!
+
+2. Why do hackers always wear hoodies? Because they like to stay incognito.
+
+3. What do you call a group of hackers? A code-gang!
+
+4. Why did the programmer quit his job? He didn't get arrays!
