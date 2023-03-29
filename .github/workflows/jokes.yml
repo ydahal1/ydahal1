@@ -18,7 +18,8 @@ jobs:
       - name : add time stamp
   
         run: |
-          echo "     $(date)" > jokes.md
+          echo " " > jokes.md
+          echo "     $(date)" >> jokes.md
         
       - name: Make API request
         run: |
