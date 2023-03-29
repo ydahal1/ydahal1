@@ -1,0 +1,27 @@
+name: generate Jokes
+'on':
+  schedule:
+    - cron: 0 */24 * * *
+  workflow_dispatch: null
+jobs:
+  Update-Readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Combine Files
+        run: |
+          cat snake.md jokes.md > ReadMe.md          
+        
+      - name: Add response file
+        run: git add .
+      
+      - name: push
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.ACTIONS }}
+          push-branch: 'main'
+          commit-message: 'publish'
+          force-add: 'true'
+          name: Lion Tamer
