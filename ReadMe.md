@@ -13,10 +13,3 @@ Here are some new ones. Keep checking back for more laugh-out-loud jokes, brough
 2. Why did the hacker quit his job? He didn't get root access.
 3. Why did the cyber security expert wear a mask to work? To protect himself from viruses.
 4. Why did the computer go to the doctor? It had a virus.
-
-
-     Wed Mar 29 18:30:42 UTC 2023
-1. Why did the programmer quit his job? He didn't get arrays.
-2. Why did the computer go to the doctor? It had a virus!
-3. Why did the hacker break up with his girlfriend? She kept saying "password" instead of "1234".
-4. Why did the cybersecurity expert cross the road? To get to the other side of the firewall.
