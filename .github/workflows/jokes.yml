@@ -39,7 +39,7 @@ jobs:
 #         run: cat jokes.txt
         
 #       - name: Concatenate response to readme.md file
-#         run: cat jokes.txt >> ReadMe.md
+#         run: cat jokes.txt > jokes.md
         
       - name: Add response file
         run: git add .
