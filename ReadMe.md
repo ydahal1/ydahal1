@@ -7,8 +7,9 @@
 
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
-     Wed Mar 29 19:05:26 UTC 2023
-1. Why do programmers prefer dark mode? Because light attracts bugs.
-2. Why was the computer cold? Because it left its Windows open.
-3. Why did the hacker quit his job? He didn't get arrays.
-4. Why did the cyber criminal break up with his girlfriend? He found someone more vulnerable.
+ 
+[ Thu Mar 30 01:22:38 UTC 2023 ]
+1. Why did the software engineer quit his job? He didn't get arrays.
+2. Why did the cyber criminal wear glasses? He wanted to improve his frames per second.
+3. Why don't programmers like nature? It has too many bugs.
+4. Why was the password so insecure? It was just "password" with a few random capital letters thrown in.
