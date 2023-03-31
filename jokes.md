@@ -1,9 +1,9 @@
  
-1. Why do programmers prefer dark mode? Because light attracts bugs!
-2. Why did the cyber security expert break up with his girlfriend? She kept saying "password" instead of "I love you".
-3. What do you call a hacker who doesn't know how to code? A script kiddie.
-4. Why did the software engineer quit his job? He didn't get arrays.
+1) Why did the programmer quit his job? He didn't get arrays.
+2) Why do hackers wear hoodies? Because they're code ninjas!
+3) Why did the database administrator refuse to go on vacation? He didn't want to leave his tables unattended.
+4) Why did the cybersecurity expert break up with his girlfriend? She kept leaving her passwords on sticky notes around the house.
  
 [ 
-Thu Mar 30 12:53:41 UTC 2023
+Fri Mar 31 01:21:33 UTC 2023
  ]
