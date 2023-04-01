@@ -1,9 +1,9 @@
  
-1) Why did the programmer quit his job? He didn't get arrays.
-2) Why do hackers wear hoodies? Because they're code ninjas!
-3) Why did the database administrator refuse to go on vacation? He didn't want to leave his tables unattended.
-4) Why did the cybersecurity expert break up with his girlfriend? She kept leaving her passwords on sticky notes around the house.
+1. Why did the programmer quit his job? He didn't get arrays.
+2. Why do hackers wear hoodies? Because they want to stay incognito-ito.
+3. Why did the cyber security expert scold his computer? It was caught phishing in the wrong pond.
+4. Why do software engineers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.
  
 [ 
-Fri Mar 31 01:21:33 UTC 2023
+Sat Apr  1 01:20:35 UTC 2023
  ]
