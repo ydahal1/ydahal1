@@ -8,8 +8,8 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-null
+**1.** Why do programmers prefer dark mode? **Because light attracts bugs.** <br> **2.** Why did the programmer quit his job? **Because he didn't get arrays**. <br> **3.** Why did the developer go broke? **He used up all his cache**.<br> **4.** Why did the JavaScript developer wear glasses? **Because he couldn't C#**.
  
 [ 
-Fri May  5 15:31:14 UTC 2023
+Fri May  5 16:35:29 UTC 2023
  ]
