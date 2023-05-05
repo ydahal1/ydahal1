@@ -29,6 +29,9 @@ jobs:
               "temperature": 0.7
             }')
           content_value=$(echo "$api_response" | jq -r '.choices[0].message.content')
+          
+          echo "$content_value"
+          
           if [ -z "$content_value" ]; then
             content_value="hello world"
           fi
