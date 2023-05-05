@@ -34,7 +34,7 @@ jobs:
           
           if [ -z "$content_value" ] || [ "$content_value" = "null" ]; then
             echo "No new joks. Probably not enough credit in opneAI- load stale jokes"
-            content_value="- Why do programmers prefer dark mode? Because light attracts bugs. \n -Why did the programmer quit his job? Because he didn't get arrays.  \n"
+            content_value="**1.** Why do programmers prefer dark mode? **Because light attracts bugs.** <br> **2.** Why did the programmer quit his job? **Because he didn't get arrays**.  \n"
           fi
 
           echo " " > jokes.md
