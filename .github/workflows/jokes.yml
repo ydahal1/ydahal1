@@ -30,11 +30,13 @@ jobs:
             }')
           content_value=$(echo "$api_response" | jq -r '.choices[0].message.content')
           
-          echo "$content_value"
+          echo "Checking if null ----- $content_value"
           
-          if [ -z "$content_value" ]; then
+          if [ -z "$content_value" ] || [ "$content_value" = "null" ]; then
+            echo "yes it is null ..."
             content_value="hello world"
           fi
+
           echo " " > jokes.md
           echo "$content_value" >> jokes.md
           echo " " >> jokes.md
