@@ -10,8 +10,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         
-      - name: Pull latest changes
-        run: git pull
+
         
       - name: location and list files
         run : |
@@ -39,6 +38,9 @@ jobs:
           echo "[ " >> jokes.md
           echo "$(date)" >> jokes.md
           echo " ]" >> jokes.md
+      
+      - name: Pull latest changes
+        run: git pull
 
       - name: Add response file
         run: git add .
