@@ -33,8 +33,8 @@ jobs:
           echo "Checking if null ----- $content_value"
           
           if [ -z "$content_value" ] || [ "$content_value" = "null" ]; then
-            echo "yes it is null ..."
-            content_value="hello world"
+            echo "No new joks. Probably not enough credit in opneAI- load stale jokes"
+            content_value="- Why do programmers prefer dark mode? Because light attracts bugs. \n -Why did the programmer quit his job? Because he didn't get arrays.  \n"
           fi
 
           echo " " > jokes.md
