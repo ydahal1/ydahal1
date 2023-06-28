@@ -1,9 +1,12 @@
  
-1. Why do software developers wear glasses? Because they can't C#!
-2. Why did the programmer quit his job? He didn't get arrays!
-3. Why did the hacker break into the bakery? He wanted to steal some cookies and crack the encryption.
-4. What do you call a group of hackers? A code of conduct!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
+
+2. Why did the hacker bring a ladder to the data center? Because they heard the password was "W1nd0w5"!
+
+3. Why did the developer go broke? Because he couldn't find a bug in his code, but the bug found him!
+
+4. Why did the cybersecurity expert always carry a flashlight? Because they liked to enlighten the dark web!
  
 [ 
-Tue Jun 27 01:48:03 UTC 2023
+Wed Jun 28 01:47:12 UTC 2023
  ]
