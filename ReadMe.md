@@ -8,11 +8,11 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why was the computer cold? Because it left its Windows open.
-2. Why did the programmer quit his job? He didn't get arrays.
-3. Why do programmers prefer dark mode? Because light attracts bugs.
-4. Why did the hacker go to jail? He couldn't CTRL+ALT+DELETE his criminal record.
+1. Why do software developers wear glasses? Because they can't C#!
+2. Why did the programmer quit his job? He didn't get arrays!
+3. Why did the hacker break into the bakery? He wanted to steal some cookies and crack the encryption.
+4. What do you call a group of hackers? A code of conduct!
  
 [ 
-Mon Jun 26 01:49:54 UTC 2023
+Tue Jun 27 01:48:03 UTC 2023
  ]
