@@ -1,16 +1,9 @@
  
-1. Why do programmers prefer dark mode?
-Because bugs are afraid of the dark!
-
-2. Why did the programmer go broke?
-Because he lost his domain in a phishing attack!
-
-3. Why did the computer go to the doctor?
-Because it had a virus and needed a byte!
-
-4. Why do cybersecurity experts always win at poker?
-Because they never reveal their hand, they encrypt it!
+1. Why did the software engineer go broke? Because he lost his domain!
+2. Why did the cybersecurity expert bring a ladder to work? To scale the firewall!
+3. Why did the computer go to the doctor? It had a virus!
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Sun Jul  2 01:52:43 UTC 2023
+Mon Jul  3 01:46:36 UTC 2023
  ]
