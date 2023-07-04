@@ -1,9 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain!
-2. Why did the cybersecurity expert bring a ladder to work? To scale the firewall!
-3. Why did the computer go to the doctor? It had a virus!
+1. Why did the developer go broke? Because he didn't have enough cache!
+
+2. Why did the programmer always carry a screwdriver? Because he was a bit-rot repairman!
+
+3. Why did the scarecrow become a cyber security expert? Because he was outstanding in his field!
+
 4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Mon Jul  3 01:46:36 UTC 2023
+Tue Jul  4 01:46:55 UTC 2023
  ]
