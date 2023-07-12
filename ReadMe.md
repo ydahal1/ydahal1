@@ -8,14 +8,16 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
+Sure, here are four jokes related to software engineering and cyber security:
 
-2. Why did the computer go to the doctor? It had a virus and couldn't stop coughing up spam!
+1. Why did the software developer go broke? Because he kept forgetting to CTRL+SHIFT+S (Save) his money!
 
-3. Why did the developer go broke? He kept getting paid in bitcoins, but they kept disappearing due to a bug in his wallet!
+2. Why did the hacker break up with their computer? It wasn't giving them enough space for a healthy relationship. 
 
-4. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
+
+4. Why did the cyber security expert bring a ladder to work? To scale the firewall and make sure there were no "loopholes"!
  
 [ 
-Mon Jul 10 01:46:45 UTC 2023
+Tue Jul 11 01:38:26 UTC 2023
  ]
