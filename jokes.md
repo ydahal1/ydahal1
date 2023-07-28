@@ -1,9 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
-2. Why did the cybersecurity expert bring a ladder to work? To secure the "top-level" access!
+1. Why did the programmer quit his job? Because he didn't get arrays!
+
+2. Why did the computer go to the doctor? Because it had a virus!
+
 3. Why was the computer cold? It left its Windows open!
-4. Why did the programmer always carry a spoon? In case there was a byte to eat!
+
+4. Why did the developer go broke? Because he lost his domain!
  
 [ 
-Thu Jul 27 01:14:08 UTC 2023
+Fri Jul 28 01:15:29 UTC 2023
  ]
