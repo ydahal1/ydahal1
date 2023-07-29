@@ -1,12 +1,9 @@
  
-1. Why did the programmer quit his job? Because he didn't get arrays!
-
-2. Why did the computer go to the doctor? Because it had a virus!
-
-3. Why was the computer cold? It left its Windows open!
-
-4. Why did the developer go broke? Because he lost his domain!
+1. Why did the software developer go broke? Because he kept forgetting to CTRL+SAVE!
+2. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the programmer always bring a ladder to work? Because he wanted to reach the highest level of cybersecurity!
+4. Why did the cybersecurity expert bring a calculator to the grocery store? Because he wanted to calculate the risk of getting hacked while buying milk!
  
 [ 
-Fri Jul 28 01:15:29 UTC 2023
+Sat Jul 29 01:15:46 UTC 2023
  ]
