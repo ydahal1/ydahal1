@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
+1. Why did the software developer go broke? Because he lost his domain in a cyber attack!
 
-2. Why did the computer catch a cold? It left its Windows open!
+2. What do you call a hacker who doesn't like coffee? Decaf-feinated!
 
-3. Why did the cybersecurity expert bring a ladder to work? To scale the firewall!
+3. Why did the programmer quit his job? He didn't get arrays!
 
-4. Why did the software engineer quit his job? He couldn't debug his life problems!
+4. Why did the computer go to the doctor? Because it had a virus and needed byte-sized medicine!
  
 [ 
-Tue Aug  1 01:26:56 UTC 2023
+Wed Aug  2 01:14:56 UTC 2023
  ]
