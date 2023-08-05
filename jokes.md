@@ -1,12 +1,12 @@
  
-1. Why did the programmer go broke? Because he lost his domain in a phishing attack!
+1. Why did the software developer go broke? Because he lost his domain in a phishing attack!
 
-2. Why do programmers prefer dark mode? Because light attracts bugs!
+2. Why did the computer keep freezing during the winter? It refused to wear a "Windows" coat!
 
-3. Why did the computer go to the doctor? Because it had a virus and it needed a byte!
+3. Why did the programmer quit his job? Because he didn't get arrays of opportunities!
 
-4. Why was the math book sad? Because it had too many problems and not enough algorithms!
+4. Why was the cyber security expert always calm? Because they had so much encryption!
  
 [ 
-Fri Aug  4 01:18:25 UTC 2023
+Sat Aug  5 01:14:38 UTC 2023
  ]
