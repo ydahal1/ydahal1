@@ -1,12 +1,12 @@
  
-1. Why did the software developer go broke? Because he lost his domain in a phishing attack!
+1. Why did the software developer go broke? Because he kept debugging his bank account!
 
-2. Why did the cyber security expert bring a ladder to work? Because he wanted to scale the firewall!
+2. Why did the computer go to art school? Because it had a lot of bugs to "draw" out!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. What's the most used language in programming? Profanity! It's the first thing developers learn when their code doesn't work!
 
-4. Why was the computer cold? It left its Windows open!
+4. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a lot of "high-level" security!
  
 [ 
-Mon Aug  7 01:17:34 UTC 2023
+Tue Aug  8 01:15:07 UTC 2023
  ]
