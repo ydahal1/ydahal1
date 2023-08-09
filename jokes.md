@@ -1,12 +1,12 @@
  
-1. Why did the software developer go broke? Because he kept debugging his bank account!
+1. Why did the computer go to the doctor? Because it had a virus! 
 
-2. Why did the computer go to art school? Because it had a lot of bugs to "draw" out!
+2. Why do Java developers wear glasses? Because they can't C#! 
 
-3. What's the most used language in programming? Profanity! It's the first thing developers learn when their code doesn't work!
+3. Why did the developer go broke? Because he lost his domain in a bet! 
 
-4. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a lot of "high-level" security!
+4. Why did the cybersecurity expert refuse to play hide and seek? Because nobody can ever find him, he's always in incognito mode!
  
 [ 
-Tue Aug  8 01:15:07 UTC 2023
+Wed Aug  9 01:18:16 UTC 2023
  ]
