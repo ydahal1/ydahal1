@@ -1,12 +1,12 @@
  
-1. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+1. Why did the software engineer always carry a pencil and paper? Because he couldn't resist the urge to draw his own "interface"!
 
-2. Why did the software developer go broke? Because he lost his domain in a phishing scam!
+2. Why did the cyber security expert bring a ladder to work? Because he wanted to scale the firewall!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-4. Why was the computer cold? It left its Windows open!
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Fri Aug 11 01:03:55 UTC 2023
+Sat Aug 12 01:02:59 UTC 2023
  ]
