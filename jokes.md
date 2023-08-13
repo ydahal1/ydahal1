@@ -1,12 +1,9 @@
  
-1. Why did the software engineer always carry a pencil and paper? Because he couldn't resist the urge to draw his own "interface"!
-
-2. Why did the cyber security expert bring a ladder to work? Because he wanted to scale the firewall!
-
-3. Why did the software engineer go broke? Because he lost his domain in a bet!
-
-4. Why do programmers prefer dark mode? Because light attracts bugs!
+1. Why was the computer cold? It left its Windows open!
+2. Why did the programmer go broke? Because he lost his domain in a cyber attack!
+3. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+4. Why did the scarecrow become a cyber security expert? Because he was outstanding in his field!
  
 [ 
-Sat Aug 12 01:02:59 UTC 2023
+Sun Aug 13 01:07:47 UTC 2023
  ]
