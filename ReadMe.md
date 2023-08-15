@@ -8,11 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why was the computer cold? It left its Windows open!
-2. Why did the programmer go broke? Because he lost his domain in a cyber attack!
-3. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
-4. Why did the scarecrow become a cyber security expert? Because he was outstanding in his field!
+1. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+
+2. Why did the programmer quit his job? Because he didn't get arrays!
+
+3. Why did the cyber security expert always bring a pencil and paper to work? In case they needed to draw a firewall!
+
+4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
  
 [ 
-Sun Aug 13 01:07:47 UTC 2023
+Mon Aug 14 01:05:27 UTC 2023
  ]
