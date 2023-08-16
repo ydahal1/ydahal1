@@ -1,12 +1,12 @@
  
-1. Why was the computer cold? It left its Windows open!
+1. Why did the software engineer go broke? Because he lost his domain in the cyber war!
 
-2. Why did the programmer go broke? Because he lost his domain in a cyber attack!
+2. Why did the computer catch a cold? Because it left its Windows open!
 
-3. Why did the software developer go broke? Because he didn't have enough cache!
+3. Why did the cybersecurity expert bring a ladder to work? To reach new heights in firewall protection!
 
-4. Why did the hacker bring a ladder to the data center? They heard the password was "WLAN"!
+4. Why did the software developer go broke? Because he couldn't C# (see sharp) anymore!
  
 [ 
-Tue Aug 15 01:04:40 UTC 2023
+Wed Aug 16 01:04:21 UTC 2023
  ]
