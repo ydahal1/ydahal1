@@ -1,16 +1,12 @@
  
-1. Why did the software engineer go broke?
-   Because he lost his domain in a DDoS attack!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the developer go broke?
-   Because he lost his cache and couldn't retrieve it!
+2. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a lot of high-level security!
 
-3. Why did the cybersecurity specialist bring a ladder to work?
-   Because they heard the system had a lot of "high-level" security!
+3. What do you call a software engineer who can't spell? A typo coder!
 
-4. Why did the hacker become a gardener?
-   Because they wanted to plant a "root"kit!
+4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
  
 [ 
-Fri Aug 18 01:03:59 UTC 2023
+Sat Aug 19 01:02:21 UTC 2023
  ]
