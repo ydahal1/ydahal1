@@ -1,12 +1,16 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+1. Why did the software engineer go broke?
+Because he lost his domain in a DDoS attack!
 
-2. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a lot of high-level security!
+2. Why do programmers always mix up Christmas and Halloween?
+Because Oct 31 == Dec 25!
 
-3. What do you call a software engineer who can't spell? A typo coder!
+3. Why don't programmers like nature?
+It has too many bugs!
 
-4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+4. Why did the computer keep sneezing?
+It had a virus and needed some anti-virus software!
  
 [ 
-Sat Aug 19 01:02:21 UTC 2023
+Sun Aug 20 01:07:19 UTC 2023
  ]
