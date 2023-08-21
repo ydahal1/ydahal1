@@ -1,16 +1,12 @@
  
-1. Why did the software engineer go broke?
-Because he lost his domain in a DDoS attack!
+1. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
 
-2. Why do programmers always mix up Christmas and Halloween?
-Because Oct 31 == Dec 25!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why don't programmers like nature?
-It has too many bugs!
+3. How does a computer stay cool? It uses a lot of fans!
 
-4. Why did the computer keep sneezing?
-It had a virus and needed some anti-virus software!
+4. Why did the programmer go broke? Because he couldn't find a byte to eat!
  
 [ 
-Sun Aug 20 01:07:19 UTC 2023
+Mon Aug 21 01:04:38 UTC 2023
  ]
