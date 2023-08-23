@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
+1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
 
-2. Why do programmers prefer dark mode? Because light attracts bugs!
+2. Why did the cybersecurity expert bring a ladder to the office? Because he heard the system had a lot of bugs!
 
-3. Why did the developer go broke? Because he lost all his cache!
+3. Why did the software engineer always carry a pencil and paper? In case he needed to draw a "byte"!
 
-4. Why did the cybersecurity expert bring a ladder to work? Because he wanted to reach new heights in network security!
+4. Why did the cybersecurity analyst always bring a mirror to work? To reflect any suspicious activity back to the hackers!
  
 [ 
-Tue Aug 22 01:05:25 UTC 2023
+Wed Aug 23 01:04:31 UTC 2023
  ]
