@@ -1,12 +1,16 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
+1. Why did the software engineer always carry a pen and paper?
+   Because he couldn't commit anything without a version control!
 
-2. Why did the cybersecurity expert bring a ladder to the office? Because he heard the system had a lot of bugs!
+2. Why do programmers always mix up Christmas and Halloween?
+   Because Oct 31 == Dec 25!
 
-3. Why did the software engineer always carry a pencil and paper? In case he needed to draw a "byte"!
+3. Why did the cybersecurity expert bring a ladder to work?
+   Because he heard the system had a lot of firewalls!
 
-4. Why did the cybersecurity analyst always bring a mirror to work? To reflect any suspicious activity back to the hackers!
+4. Why did the software developer go broke?
+   Because he lost his domain in a bet and couldn't afford hosting anymore!
  
 [ 
-Wed Aug 23 01:04:31 UTC 2023
+Thu Aug 24 01:04:32 UTC 2023
  ]
