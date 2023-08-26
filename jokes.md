@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost all his cache!
+1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
 
-2. Why did the computer catch a cold? It left its Windows open!
+2. Why did the computer go to the doctor? Because it had a virus and needed a byte!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the cybersecurity expert always carry a flashlight? Because he wanted to shed some light on the dark web!
 
-4. Why did the cybersecurity expert bring a ladder to the office? To reach the highest levels of encryption!
+4. Why don't programmers like nature? It has too many bugs!
  
 [ 
-Fri Aug 25 01:05:54 UTC 2023
+Sat Aug 26 01:03:25 UTC 2023
  ]
