@@ -8,18 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software engineer always carry a pen and paper?
-   Because he couldn't commit anything without a version control!
+1. Why did the software engineer go broke? Because he lost all his cache!
 
-2. Why do programmers always mix up Christmas and Halloween?
-   Because Oct 31 == Dec 25!
+2. Why did the computer catch a cold? It left its Windows open!
 
-3. Why did the cybersecurity expert bring a ladder to work?
-   Because he heard the system had a lot of firewalls!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
 
-4. Why did the software developer go broke?
-   Because he lost his domain in a bet and couldn't afford hosting anymore!
+4. Why did the cybersecurity expert bring a ladder to the office? To reach the highest levels of encryption!
  
 [ 
-Thu Aug 24 01:04:32 UTC 2023
+Fri Aug 25 01:05:54 UTC 2023
  ]
