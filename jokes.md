@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why did the cybersecurity expert always carry a flashlight? Because he wanted to shed some light on the dark web!
+3. Why did the security guard bring a ladder to work? Because he wanted to level up his firewall!
 
-4. Why don't programmers like nature? It has too many bugs!
+4. Why did the programmer always bring a pen and paper to the gym? In case he needed to document his gains in binary!
  
 [ 
-Sat Aug 26 01:03:25 UTC 2023
+Sun Aug 27 01:08:56 UTC 2023
  ]
