@@ -1,12 +1,12 @@
  
-1. Why did the programmer always carry a screwdriver? Because he wanted to debug the hardware too!
+1. Why did the software developer go broke? Because he lost his domain in a phishing scheme!
 
-2. How does a computer programmer communicate with others? In binary code, they speak 0s and 1s!
+2. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a high level of "firewall" protection!
 
-3. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+3. Why don't programmers like nature? Because they prefer working in the "cloud"!
 
-4. Why do programmers prefer dark mode? Because light attracts bugs!
+4. Why did the software engineer always carry a math book? Because they liked to "code" with their algorithms!
  
 [ 
-Thu Aug 31 01:06:13 UTC 2023
+Fri Sep  1 01:10:39 UTC 2023
  ]
