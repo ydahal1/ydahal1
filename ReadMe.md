@@ -8,11 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software engineer go broke? Because he lost too many bits!
-2. Why did the computer go to the doctor? Because it had a virus!
-3. Why do programmers prefer dark mode? Because light attracts bugs!
-4. Why did the cybersecurity expert break up with their partner? They found out they were phishing for compliments!
+1. Why did the programmer always carry a screwdriver? Because he wanted to debug the hardware too!
+
+2. How does a computer programmer communicate with others? In binary code, they speak 0s and 1s!
+
+3. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Wed Aug 30 01:05:57 UTC 2023
+Thu Aug 31 01:06:13 UTC 2023
  ]
