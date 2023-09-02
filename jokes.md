@@ -1,12 +1,16 @@
  
-1. Why did the software developer go broke? Because he lost his domain in a phishing scheme!
+1. Why did the software engineer go broke?
+Because he lost his domain in a phishing attack!
 
-2. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a high level of "firewall" protection!
+2. Why did the computer go to the doctor?
+Because it had a virus and needed a byte!
 
-3. Why don't programmers like nature? Because they prefer working in the "cloud"!
+3. Why did the cybersecurity expert bring a ladder to work?
+Because they wanted to scale the firewall!
 
-4. Why did the software engineer always carry a math book? Because they liked to "code" with their algorithms!
+4. Why did the software developer always carry a pencil and paper?
+Because they wanted to draw up their code in case of a debug mode crash!
  
 [ 
-Fri Sep  1 01:10:39 UTC 2023
+Sat Sep  2 01:03:51 UTC 2023
  ]
