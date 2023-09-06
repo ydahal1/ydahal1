@@ -8,14 +8,18 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+Sure, here are four jokes related to software engineering and cybersecurity:
 
-2. Why did the cybersecurity expert bring a ladder to work? To reach new heights in encryption!
+1. Why did the software developer go broke? Because he lost his domain in a bet.
 
-3. Why did the software engineer always carry a compass? Because he wanted to make sure his code was always heading in the right direction!
+2. Why do programmers prefer dark mode? Because light attracts bugs!
 
-4. Why did the cyber security analyst always have a flashlight with him? Because he wanted to shine a light on any potential vulnerabilities!
+3. Why did the cybersecurity expert bring a ladder to the office? To reach new heights in network security!
+
+4. Why was the computer cold? It left its Windows open!
+
+Hope these bring a smile to your face!
  
 [ 
-Mon Sep  4 01:06:54 UTC 2023
+Tue Sep  5 01:04:58 UTC 2023
  ]
