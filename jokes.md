@@ -1,16 +1,9 @@
  
-Sure, here are four jokes related to software engineering and cybersecurity:
-
-1. Why did the software developer go broke? Because he lost his domain in a bet.
-
-2. Why do programmers prefer dark mode? Because light attracts bugs!
-
-3. Why did the cybersecurity expert bring a ladder to the office? To reach new heights in network security!
-
-4. Why was the computer cold? It left its Windows open!
-
-Hope these bring a smile to your face!
+1. Why did the software engineer go broke? Because he lost all his cache!
+2. Why did the computer go to the doctor? Because it had a virus!
+3. Why do programmers prefer dark mode? Because the light attracts bugs!
+4. Why was the cyber security expert always lonely? Because they had trust issues!
  
 [ 
-Tue Sep  5 01:04:58 UTC 2023
+Wed Sep  6 01:06:11 UTC 2023
  ]
