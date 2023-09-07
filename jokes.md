@@ -1,9 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost all his cache!
-2. Why did the computer go to the doctor? Because it had a virus!
-3. Why do programmers prefer dark mode? Because the light attracts bugs!
-4. Why was the cyber security expert always lonely? Because they had trust issues!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
+
+2. Why did the cybersecurity expert bring a ladder to work? To reach the top-level security!
+
+3. Why did the software engineer always carry a pencil and paper? In case he needed to draw a sketchy algorithm!
+
+4. Why do programmers prefer dark mode? Because it saves their eyes from all the bugs!
  
 [ 
-Wed Sep  6 01:06:11 UTC 2023
+Thu Sep  7 01:06:18 UTC 2023
  ]
