@@ -8,22 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software developer go broke?
+1. Why did the software engineer go broke? Because he lost his domain in a phishing scam!
 
-Because he lost his domain in a DNS attack!
+2. Why did the computer catch a cold? It left its Windows open!
 
-2. Why do programmers prefer dark mode?
+3. Why did the cybersecurity expert bring a ladder to work? To scale the firewall!
 
-Because light attracts bugs!
-
-3. Why did the cyber security specialist bring a ladder to work?
-
-To reach new heights in firewall protection!
-
-4. Why did the computer go to the doctor?
-
-Because it had a virus and needed a byte!
+4. Why did the programmer quit his job? Because he didn't get arrays!
  
 [ 
-Tue Sep 12 01:04:40 UTC 2023
+Wed Sep 13 01:07:39 UTC 2023
  ]
