@@ -8,14 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why do programmers prefer dark mode? Because light attracts bugs!
+1. Why don't programmers like nature? It has too many bugs!
 
-2. Why did the software developer go broke? Because he didn't have enough cache!
+2. Why did the computer go to the doctor? It had a virus!
 
-3. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+3. Why did the cybersecurity expert always carry a ladder? To reach new heights in hacking!
 
-4. Why did the cyber security analyst bring a ladder to work? Because they heard they needed to scale the firewall!
+4. Why did the developer go broke? Because he lost his domain in a bet and couldn't afford hosting fees!
  
 [ 
-Sat Sep 16 01:04:57 UTC 2023
+Sun Sep 17 01:10:07 UTC 2023
  ]
