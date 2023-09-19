@@ -1,12 +1,12 @@
  
-1. Why did the programmer always carry a screwdriver? Because he was always "debugging"!
+1. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
 
-2. Why did the computer go to the doctor? Because it had a virus and needed an "antivirus"!
+2. Why don't programmers like nature? It has too many bugs!
 
-3. Why did the developer go broke? Because he lost all his "cache"!
+3. Why did the cybersecurity expert always carry a pen and paper? Because they couldn't hack into a notebook!
 
-4. Why was the computer cold? Because it left its Windows open!
+4. Why did the computer go to the doctor? Because it had a virus and needed some tablets!
  
 [ 
-Mon Sep 18 01:06:50 UTC 2023
+Tue Sep 19 01:07:19 UTC 2023
  ]
