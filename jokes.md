@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
+1. Why did the computer go to the doctor? It had a virus!
 
-2. Why did the computer catch a cold? Because it left its Windows open!
+2. Why did the software developer go broke? Because he lost his domain in a phishing attack!
 
-3. Why did the hacker break up with his computer? Because he heard it was seeing someone else on the LAN!
+3. Why did the developer go broke? Because he couldn't afford to pay for his Java!
 
-4. Why did the cybersecurity expert bring a ladder to work? Because he wanted to climb the firewall!
+4. Why did the hacker bring a ladder to the data center? Because they heard the servers had a high security patch level!
  
 [ 
-Sun Sep 24 01:10:26 UTC 2023
+Mon Sep 25 01:07:45 UTC 2023
  ]
