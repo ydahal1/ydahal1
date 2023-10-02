@@ -1,14 +1,16 @@
  
-Sure, here are four jokes related to software engineering and cybersecurity:
+1. Why did the software engineer go broke?
+   Because he lost his domain in a cyber attack!
 
-1. Why did the programmer go broke? Because he lost his domain in a bet. 
+2. Why did the programmer quit his job?
+   Because he didn't get arrays.
 
-2. Why did the cybersecurity specialist take up gardening? Because he wanted to plant rootkits. 
+3. Why did the computer go to the doctor?
+   Because it had a virus!
 
-3. Why did the developer go broke? Because he couldn't find his Java. 
-
-4. Why did the computer go to the doctor? Because it had a virus and needed an injection.
+4. Why did the developer go broke?
+   He lost his cache!
  
 [ 
-Sun Oct  1 01:15:50 UTC 2023
+Mon Oct  2 01:07:51 UTC 2023
  ]
