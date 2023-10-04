@@ -1,12 +1,9 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
-
-2. Why did the hacker always win at poker? Because they always had a good poker face(mask)!
-
-3. Why did the developer go broke? Because he forgot to CTRL+S (save) his money!
-
-4. Why did the computer go to the doctor? Because it had a virus and needed an antivirus prescription!
+1. Why did the software engineer go broke? Because he lost all his cache!
+2. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the cyber security expert bring a ladder to work? To reach new heights in network security!
+4. Why did the developer go broke? Because he always forgot to 'return' his borrowed money!
  
 [ 
-Tue Oct  3 01:07:55 UTC 2023
+Wed Oct  4 01:09:32 UTC 2023
  ]
