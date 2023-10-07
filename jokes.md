@@ -1,12 +1,9 @@
  
-1. Why did the developer go broke? Because he lost his domain in a DDoS attack!
-
-2. Why was the computer cold? It left its Windows open!
-
-3. Why did the software engineer always carry a ladder? Because he wanted to reach the cloud!
-
-4. Why did the cybersecurity expert bring a USB to a party? To catch all the viruses!
+1. Why do programmers prefer dark mode? Because light attracts bugs!
+2. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
+3. Why did the developer go broke buying a new computer? Because he couldn't find the any-key!
+4. Why did the security analyst always carry a ladder? Because he wanted to reach the highest level of encryption!
  
 [ 
-Fri Oct  6 01:07:25 UTC 2023
+Sat Oct  7 01:06:39 UTC 2023
  ]
