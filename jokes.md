@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+1. Why did the software engineer always carry a pencil and paper? Because he couldn't Ctrl+C and Ctrl+V in real life!
 
-2. Why did the developer go broke? Because he couldn't find a backend job!
+2. Why did the cyber security expert bring a ladder to work? Because he heard the security was always on a higher level!
 
-3. Why was the computer cold? It left its Windows open!
+3. Why did the software engineer quit his job? He didn't get arrays!
 
-4. Why did the security analyst bring a ladder to the office? Because he heard the system had a lot of vulnerabilities and he wanted to climb up the ranks!
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Sun Oct  8 01:11:57 UTC 2023
+Mon Oct  9 01:07:25 UTC 2023
  ]
