@@ -8,14 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
+1. Why did the software engineer go broke? Because he lost his domain in a cyber attack!
 
-2. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+2. Why did the programmer always carry a ladder with him? In case he needed to scale the firewall!
 
-3. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+3. Why did the cybersecurity specialist bring a bird to work? Because it was an expert at tweeting about vulnerabilities!
 
-4. Why don't programmers like nature? Because they prefer the comfort of their own shell!
+4. Why was the computer cold? It left its Windows open!
  
 [ 
-Tue Oct 17 01:08:18 UTC 2023
+Wed Oct 18 01:07:58 UTC 2023
  ]
