@@ -1,16 +1,6 @@
  
-1. Why do programmers prefer dark mode? 
-   Because the light attracts bugs!
-
-2. Why don't programmers like nature?
-   They prefer artificial intelligence!
-
-3. Why was the computer cold?
-   It left its Windows open!
-
-4. Why did the hacker bring a ladder to the data center?
-   Because they heard the security was "top-notch"!
+**1.** Why do programmers prefer dark mode? **Because light attracts bugs.** <br> **2.** Why did the programmer quit his job? **Because he didn't get arrays**. <br> **3.** Why did the developer go broke? **He used up all his cache**.<br> **4.** Why did the JavaScript developer wear glasses? **Because he couldn't C#**.
  
 [ 
-Thu Oct 19 01:07:43 UTC 2023
+Fri Oct 20 01:07:28 UTC 2023
  ]
