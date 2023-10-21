@@ -1,6 +1,16 @@
  
-**1.** Why do programmers prefer dark mode? **Because light attracts bugs.** <br> **2.** Why did the programmer quit his job? **Because he didn't get arrays**. <br> **3.** Why did the developer go broke? **He used up all his cache**.<br> **4.** Why did the JavaScript developer wear glasses? **Because he couldn't C#**.
+1. Why did the software engineer go broke?
+Because he lost his domain in a cyber attack and couldn't afford to renew it!
+
+2. Why did the computer go to the doctor?
+Because it had a virus and needed a byte!
+
+3. Why did the developer go broke?
+Because he kept forgetting to return his pointers and lost all his memory!
+
+4. Why do programmers prefer dark mode?
+Because light attracts bugs and they like to keep their code bug-free!
  
 [ 
-Fri Oct 20 01:07:28 UTC 2023
+Sat Oct 21 01:05:46 UTC 2023
  ]
