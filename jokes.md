@@ -1,12 +1,12 @@
  
-1. Why do software engineers prefer gardening? Because they like to "debug" their plants and watch them "grow"!
+1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
 
-2. Why did the cybersecurity expert bring a ladder to work? Because they heard the company had a lot of "high-level" security!
+2. How does a computer programmer get out of a locked room? They use a "key" logger!
 
-3. Why did the software engineer go broke? Because they lost their "cache" flow and couldn't "compile" enough money!
+3. Why did the cybersecurity expert bring a ladder? Because they wanted to climb up the fireWALL!
 
-4. Why do security experts never get into fights? Because they always "encrypt" their personal data and "firewall" their emotions!
+4. Why did the developer go broke? Because he kept spending all his cache!
  
 [ 
-Mon Oct 23 01:07:56 UTC 2023
+Tue Oct 24 01:07:25 UTC 2023
  ]
