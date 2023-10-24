@@ -8,18 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-Sure, here are four jokes related to software engineering and cyber security:
+1. Why do software engineers prefer gardening? Because they like to "debug" their plants and watch them "grow"!
 
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+2. Why did the cybersecurity expert bring a ladder to work? Because they heard the company had a lot of "high-level" security!
 
-2. Why was the computer cold? It left its Windows open!
+3. Why did the software engineer go broke? Because they lost their "cache" flow and couldn't "compile" enough money!
 
-3. What do you call a hacker who can't get into any systems? A lack-toaster-intolerant!
-
-4. Why did the cyber security expert bring a ladder to work? To reach new heights in protecting the network!
-
-Hope these bring a smile to your face!
+4. Why do security experts never get into fights? Because they always "encrypt" their personal data and "firewall" their emotions!
  
 [ 
-Sun Oct 22 01:12:06 UTC 2023
+Mon Oct 23 01:07:56 UTC 2023
  ]
