@@ -1,12 +1,12 @@
  
-1. Why was the computer cold? It left its Windows open!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the programmer go broke? Because he lost his domain in a cyber attack!
+2. Why did the cyber security expert always carry a pencil and paper? In case they needed to draw a quick firewall!
 
-3. Why did the software developer always carry a ladder? To reach the cloud!
+3. Why did the software engineer bring a ladder to the office? Because they heard the code had a lot of bugs!
 
-4. Why did the cybersecurity expert bring a doorbell to work? Because he wanted to "ring" the alarm!
+4. How do you confuse a cyber criminal? Put them in a room with multiple doors labeled "exit" and watch them try to escape using the wrong one every time!
  
 [ 
-Thu Nov  2 01:07:38 UTC 2023
+Fri Nov  3 01:08:29 UTC 2023
  ]
