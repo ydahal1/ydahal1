@@ -1,9 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost all his cache!
-2. Why did the cyber security specialist bring a ladder to work? Because they heard the system had a lot of firewalls!
-3. Why do programmers prefer dark mode? Because light attracts bugs!
-4. Why did the software engineer always bring a pen and paper to the beach? Because they wanted to write some sand-boxing code!
+1. Why did the programmer go broke? Because he lost his domain in a cyber attack!
+
+2. Why was the computer cold? It left its Windows open!
+
+3. Why did the software developer go broke? Because he couldn't find a way to debug his bank account!
+
+4. Why did the cybersecurity expert bring a ladder to work? Because he heard the system had a few "high-level" vulnerabilities!
  
 [ 
-Tue Nov  7 01:09:36 UTC 2023
+Wed Nov  8 01:08:46 UTC 2023
  ]
