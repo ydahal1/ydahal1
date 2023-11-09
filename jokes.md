@@ -1,12 +1,12 @@
  
 1. Why did the programmer go broke? Because he lost his domain in a cyber attack!
 
-2. Why was the computer cold? It left its Windows open!
+2. Why do programmers prefer dark mode? Because light attracts bugs!
 
-3. Why did the software developer go broke? Because he couldn't find a way to debug his bank account!
+3. Why did the computer go to the doctor? Because it had a virus!
 
-4. Why did the cybersecurity expert bring a ladder to work? Because he heard the system had a few "high-level" vulnerabilities!
+4. Why did the software developer go broke? Because he didn't have enough cache!
  
 [ 
-Wed Nov  8 01:08:46 UTC 2023
+Thu Nov  9 01:09:20 UTC 2023
  ]
