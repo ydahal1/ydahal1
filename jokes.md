@@ -1,12 +1,12 @@
  
-1. Why did the programmer always carry a pencil and paper? Because he heard it was the best way to draw a blank!
+1. Why did the software engineer go broke? Because he lost his domain in a phishing scam!
 
-2. Why did the cybersecurity expert bring a ladder to the office? Because he heard they needed to reach new heights in network security!
+2. Why did the computer go to the doctor? Because it had a virus and needed a byte!
 
-3. Why do programmers always mix up Christmas and Halloween? Because Oct 31 equals Dec 25 in binary!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
 
-4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+4. Why did the cyber security expert bring a ladder to work? To reach the top-level domains!
  
 [ 
-Sat Nov 11 02:10:29 UTC 2023
+Sun Nov 12 01:13:30 UTC 2023
  ]
