@@ -1,12 +1,12 @@
  
-1. Why did the computer go to the doctor? Because it had a virus!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the software developer go broke? Because he lost his domain in a phishing attack!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. How does a computer programmer break the ice at parties? They say "Hello, World!"
 
-4. Why was the computer cold? It left its Windows open!
+4. Why did the cybersecurity expert bring a ladder to work? To scale the firewall!
  
 [ 
-Mon Nov 13 01:10:44 UTC 2023
+Tue Nov 14 01:08:56 UTC 2023
  ]
