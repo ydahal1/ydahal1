@@ -8,14 +8,11 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the developer go broke? Because he lost his domain in a cyber attack!
-
-2. Why did the programmer quit his job? Because he didn't get arrays!
-
-3. How does a computer get drunk? It takes screenshots!
-
-4. Why do programmers prefer dark mode? Because light attracts bugs!
+1. Why did the software developer go broke? Because he lost all his cache!
+2. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why was the computer cold? It left its Windows open!
+4. Why did the hacker break up with their partner? They didn't want to share their private key!
  
 [ 
-Wed Nov 15 01:10:26 UTC 2023
+Thu Nov 16 01:11:37 UTC 2023
  ]
