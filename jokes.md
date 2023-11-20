@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a cyber attack!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the scarecrow become a cybersecurity expert? Because he was outstanding in his field!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why was the computer cold? It left its Windows open!
+3. Why did the developer go broke? Because he lost all his cache!
 
-4. Why do programmers prefer dark mode? Because light attracts bugs!
+4. Why did the cyber security expert bring a ladder to work? Because he wanted to reach new heights in network security!
  
 [ 
-Sun Nov 19 01:15:49 UTC 2023
+Mon Nov 20 01:12:00 UTC 2023
  ]
