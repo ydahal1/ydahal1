@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the computer catch a cold? It left its Windows open!
+2. Why did the cyber security specialist get fired? Because he couldn't hack it!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the programmer always carry a ladder? In case of a high-level language!
 
-4. Why did the cybersecurity expert bring a ladder to work? To reach new heights in encryption!
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Wed Nov 22 01:13:27 UTC 2023
+Thu Nov 23 01:10:48 UTC 2023
  ]
