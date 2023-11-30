@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+1. Why did the programmer go broke? Because he lost all his cache!
 
-2. Why did the cyber security expert bring a ladder to work? Because they heard the system had a lot of "high-level" threats!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why did the programmer always carry a screwdriver? Because they heard you should always "debug" your code!
+3. Why did the cyber security expert always go to bed early? Because he wanted to sleep tight and encrypt!
 
-4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+4. Why did the software engineer bring a ladder to the office? To reach the higher bugs!
  
 [ 
-Wed Nov 29 01:11:59 UTC 2023
+Thu Nov 30 01:11:00 UTC 2023
  ]
