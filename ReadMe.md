@@ -8,18 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-Sure, here are four jokes related to software engineering and cybersecurity:
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-1. Why don't programmers like nature? It has too many bugs!
+2. Why did the cyber security expert bring a ladder to work? Because they heard the system had a lot of "high-level" threats!
 
-2. Why did the programmer always wear two different shoes? In case he needed to debug!
+3. Why did the programmer always carry a screwdriver? Because they heard you should always "debug" your code!
 
-3. Why did the cybersecurity expert bring a ladder to work? To scale the firewall!
-
-4. Why did the developer go broke? Because he lost his domain in a DDoS attack!
-
-Please note that these jokes are meant to be light-hearted and not intended to offend anyone.
+4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
  
 [ 
-Tue Nov 28 01:12:03 UTC 2023
+Wed Nov 29 01:11:59 UTC 2023
  ]
