@@ -1,12 +1,12 @@
  
-1. Why did the software engineer always carry a pen and paper? Because he couldn't Ctrl+C and Ctrl+V in real life!
+1. Why did the programmer go broke? Because he lost his domain in a cyber attack and couldn't CTRL+Z his financial troubles!
 
-2. Why do programmers prefer dark mode? Because the light mode is too bright, it's like staring directly into the source code!
+2. Why did the computer go to the doctor? It had a virus and needed a byte!
 
-3. Why did the cybersecurity expert bring a ladder to work? Because they heard the servers had high security patches!
+3. Why did the software engineer always bring a ladder to work? Because he was afraid of falling into the "cloud"!
 
-4. Why did the software engineer go broke? Because he lost his domain in a bet and couldn't afford to renew it!
+4. Why did the cyber security expert bring a flashlight to work? In case of a "dark web" emergency!
  
 [ 
-Fri Dec  1 01:17:22 UTC 2023
+Sat Dec  2 01:08:29 UTC 2023
  ]
