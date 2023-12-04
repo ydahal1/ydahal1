@@ -8,14 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the programmer go broke? Because he lost his domain in a cyber attack and couldn't CTRL+Z his financial troubles!
+1. Why did the software developer go broke? Because he lost his domain in a phishing attack!
 
-2. Why did the computer go to the doctor? It had a virus and needed a byte!
+2. Why did the computer go to the doctor? Because it had a virus!
 
-3. Why did the software engineer always bring a ladder to work? Because he was afraid of falling into the "cloud"!
+3. Why do programmers prefer dark mode? Because the light attracts bugs!
 
-4. Why did the cyber security expert bring a flashlight to work? In case of a "dark web" emergency!
+4. Why did the cybersecurity expert always carry a ladder? To prevent hackers from accessing the cloud!
  
 [ 
-Sat Dec  2 01:08:29 UTC 2023
+Sun Dec  3 01:14:51 UTC 2023
  ]
