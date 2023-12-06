@@ -8,18 +8,11 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why do programmers prefer dark mode in their code editor? 
-   Because the light mode tends to be a bit "buggy"!
-
-2. Why did the software developer go broke?
-   Because he lost all his cache!
-
-3. Why did the hacker break up with their computer?
-   They found someone better, it was just a matter of "bytes".
-
-4. What do you call a cybercriminal who enters a bakery?
-   A "flour hacker"!
+1. Why did the software engineer go broke? Because he lost all his cache!
+2. Why did the cyber security expert bring a ladder to work? To reach new heights in firewall protection!
+3. Why did the software engineer drown in the sea? Because he couldn't C#!
+4. Why did the computer catch a cold? It left its Windows open!
  
 [ 
-Mon Dec  4 01:11:51 UTC 2023
+Tue Dec  5 01:12:16 UTC 2023
  ]
