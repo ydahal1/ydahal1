@@ -1,12 +1,12 @@
  
-1. Why did the computer go to the doctor? Because it had a virus and needed to be debugged!
+1. Why did the programmer always carry a flashlight? Because he preferred to debug in the dark!
 
-2. Why did the software engineer always carry a pen and paper? In case they needed to draw a quick "flow chart" of their thoughts!
+2. Why did the hacker bring a ladder to their job interview? Because they wanted to climb up the firewall!
 
-3. Why did the cyber security expert bring a ladder to work? Because they heard the security was "top-notch" and wanted to climb over it!
+3. Why did the developer go broke? Because he lost his domain in a bet!
 
-4. Why did the software developer always carry an umbrella? Because they heard their code had a lot of "bugs" and they didn't want to get wet when it rained "errors"!
+4. Why did the computer go to the doctor? Because it had a virus... and the only cure was a byte of medicine!
  
 [ 
-Thu Dec  7 01:11:39 UTC 2023
+Fri Dec  8 01:12:13 UTC 2023
  ]
