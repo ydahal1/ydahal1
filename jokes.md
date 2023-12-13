@@ -1,12 +1,12 @@
  
-1. Why did the software developer go broke? Because he lost his domain in a bet!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why do programmers prefer dark mode? Because light attracts bugs!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why did the hacker bring a ladder to the data center? He wanted to reach the cloud!
+3. Why did the cybersecurity specialist bring a ladder to work? To reach the top-level encryption!
 
-4. Why did the cybersecurity expert bring a pencil and paper to bed? Because they wanted to have secure dreams!
+4. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
  
 [ 
-Tue Dec 12 01:12:12 UTC 2023
+Wed Dec 13 01:11:48 UTC 2023
  ]
