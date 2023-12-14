@@ -1,12 +1,9 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
-
-2. Why was the computer cold? It left its Windows open!
-
-3. Why did the cybersecurity specialist bring a ladder to work? To reach the top-level encryption!
-
-4. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+1. Why did the software engineer go broke? Because he lost all his cache!
+2. Why was the cyber security expert always calm? Because they had everything under Ctrl!
+3. Why don't programmers like nature? It has too many bugs!
+4. Why did the software engineer get stuck in the shower? Because the shampoo bottle said, "Lather, Rinse, Repeat," but he couldn't find the "Exit" button!
  
 [ 
-Wed Dec 13 01:11:48 UTC 2023
+Thu Dec 14 01:10:42 UTC 2023
  ]
