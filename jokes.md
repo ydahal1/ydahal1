@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+1. Why did the software engineer go broke? Because he lost his domain in a cyber attack!
 
-2. Why did the cyber security expert always carry a pencil and paper? In case he needed to draw a firewall!
+2. Why did the computer catch a cold? It left its Windows open!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the developer go broke? He couldn't find a bug in his code to fix!
 
-4. Why was the computer cold? It left its Windows open!
+4. Why did the cybersecurity expert bring a ladder to work? To reach new heights in network security!
  
 [ 
-Fri Dec 15 01:12:31 UTC 2023
+Sat Dec 16 01:10:38 UTC 2023
  ]
