@@ -1,12 +1,12 @@
  
-1. Why did the software developer go broke? Because he lost his domain in a phishing scam!
+1. Why did the software engineer go broke? Because he lost his domain in the spam filter!
 
-2. Why did the programmer always carry a ladder? Because he wanted to reach the highest level of encryption!
+2. Why did the cybersecurity expert bring a ladder to the office? Because he wanted to reach the highest level of security - the cloud!
 
-3. Why did the cybersecurity expert bring a broom to the office? Because he wanted to sweep for bugs!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
 
-4. Why do programmers prefer iOS development over Android development? Because on iOS, there are fewer bugs to squash, and more apples to eat!
+4. Why did the cybersecurity expert always carry a pencil and paper? In case he needed to draw his own firewall!
  
 [ 
-Sun Dec 17 01:16:00 UTC 2023
+Mon Dec 18 01:12:19 UTC 2023
  ]
