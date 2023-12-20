@@ -1,12 +1,12 @@
  
-1. Why don't programmers like nature? It has too many bugs!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the computer go to the doctor? Because it had a virus!
+2. Why did the cyber security expert bring a ladder to work? Because they heard the system had a lot of firewalls!
 
-3. Why did the programmer quit his job? Because he didn't get arrays!
+3. Why did the programmer always carry a screwdriver? In case they needed to debug some hardware!
 
-4. Why did the hacker always bring a ladder to work? So he could scale the firewall!
+4. Why did the software engineer go broke? Because they spent all their money on antivirus software, and still got a virus!
  
 [ 
-Tue Dec 19 01:11:02 UTC 2023
+Wed Dec 20 00:58:26 UTC 2023
  ]
