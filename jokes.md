@@ -1,12 +1,14 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+Sure, here are four jokes related to software engineering and cyber security:
 
-2. Why did the cyber security expert bring a ladder to work? Because they heard the system had a lot of firewalls!
+1. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 
-3. Why did the programmer always carry a screwdriver? In case they needed to debug some hardware!
+2. Why did the programmer go broke? Because he lost his domain in a bet with a hacker!
 
-4. Why did the software engineer go broke? Because they spent all their money on antivirus software, and still got a virus!
+3. What do you call a hacker who doesn't smell bad? A "shower hacker"!
+
+4. Why did the software engineer go broke? Because he lost his root access!
  
 [ 
-Wed Dec 20 00:58:26 UTC 2023
+Thu Dec 21 01:09:57 UTC 2023
  ]
