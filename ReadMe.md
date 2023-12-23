@@ -8,16 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-Sure, here are four jokes related to software engineering and cyber security:
+1. Why did the developer go broke? Because he lost his domain in a bet!
 
-1. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+2. Why was the computer cold? It left its Windows open!
 
-2. Why did the programmer go broke? Because he lost his domain in a bet with a hacker!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
 
-3. What do you call a hacker who doesn't smell bad? A "shower hacker"!
-
-4. Why did the software engineer go broke? Because he lost his root access!
+4. Why did the hacker bring a ladder to the data center? Because he wanted to reach new heights in cybercrime!
  
 [ 
-Thu Dec 21 01:09:57 UTC 2023
+Fri Dec 22 01:09:31 UTC 2023
  ]
