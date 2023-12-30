@@ -1,16 +1,12 @@
  
-1. Why do programmers prefer dark mode? 
-Because the light attracts bugs!
+1. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25.
 
-2. Why was the computer cold?
-It left its Windows open!
+2. What did the computer virus say to the other? "I think I've finally found my byte-mate!"
 
-3. Why did the programmer go broke?
-Because he lost his domain in a bet!
+3. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-4. Why did the hacker bring a ladder to the data center?
-Because he wanted to reach new heights in cybercrime!
+4. Why did the cyber security expert bring a ladder to the office? Because he heard the system had a lot of firewalls!
  
 [ 
-Fri Dec 29 00:59:56 UTC 2023
+Sat Dec 30 01:08:16 UTC 2023
  ]
