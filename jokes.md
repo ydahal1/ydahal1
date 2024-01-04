@@ -1,12 +1,12 @@
  
-1. Why do programmers prefer dark mode? Because light attracts bugs!
+1. Why did the computer go to the doctor? Because it had a virus!
 
-2. Why did the programmer go broke? Because he lost his domain in a phishing attack!
+2. Why do programmers prefer dark mode? Because the light attracts bugs!
 
-3. Why did the computer go to the doctor? Because it had a virus and needed an antivirus!
+3. Why was the computer cold? It left its Windows open!
 
-4. Why did the developer go broke? Because he lost his cache in a memory leak!
+4. Why did the software developer go broke? Because he lost his domain in a phishing scam!
  
 [ 
-Wed Jan  3 01:10:30 UTC 2024
+Thu Jan  4 01:10:55 UTC 2024
  ]
