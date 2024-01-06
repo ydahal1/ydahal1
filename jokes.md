@@ -1,12 +1,12 @@
  
-1. Why did the software developer go broke? Because he kept spending all his cache!
+1. Why did the developer go broke? Because he lost his domain in a phishing attack!
 
-2. Why did the computer go to the doctor? Because it had a virus and needed a byte!
+2. Why did the computer go to the doctor? Because it had a virus and needed some malware-tylenol!
 
-3. Why did the cybersecurity expert always carry a pencil and paper? Because he wanted to draw his own firewall!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
 
-4. Why did the software engineer always bring a ladder to work? Because he heard the code had a lot of bugs!
+4. Why did the software engineer refuse to go outside? Because the API documentation said, "Stay indoors, infinite loop detected!"
  
 [ 
-Fri Jan  5 01:11:12 UTC 2024
+Sat Jan  6 01:10:24 UTC 2024
  ]
