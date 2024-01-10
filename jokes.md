@@ -1,12 +1,20 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a phishing scam!
+1) Why do programmers always mix up Christmas and Halloween? 
 
-2. Why do programmers prefer dark mode? Because light attracts bugs!
+Because Oct 31 == Dec 25!
 
-3. Why did the computer go to the doctor? Because it had a virus and needed an antivirus!
+2) Why was the computer cold?
 
-4. Why did the cybersecurity expert bring a ladder to work? Because they heard the system had a lot of firewalls!
+Because it left its Windows open!
+
+3) Why don't programmers like nature?
+
+It has too many bugs!
+
+4) Why did the hacker go broke?
+
+Because he lost all his Bitcoins in a phishing scam!
  
 [ 
-Tue Jan  9 01:12:22 UTC 2024
+Wed Jan 10 01:12:32 UTC 2024
  ]
