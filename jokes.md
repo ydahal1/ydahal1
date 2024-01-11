@@ -1,20 +1,12 @@
  
-1) Why do programmers always mix up Christmas and Halloween? 
+1. Why did the programmer get thrown out of school? Because he was hacking the "principal" directory!
 
-Because Oct 31 == Dec 25!
+2. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2) Why was the computer cold?
+3. Why did the cybersecurity expert bring a ladder to the office? Because he wanted to reach the "cloud"!
 
-Because it left its Windows open!
-
-3) Why don't programmers like nature?
-
-It has too many bugs!
-
-4) Why did the hacker go broke?
-
-Because he lost all his Bitcoins in a phishing scam!
+4. Why did the software developer go broke? Because he kept spending all his money on "Java"!
  
 [ 
-Wed Jan 10 01:12:32 UTC 2024
+Thu Jan 11 01:12:33 UTC 2024
  ]
