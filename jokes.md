@@ -1,12 +1,12 @@
  
-1. Why did the software engineer always carry a sweater? Because they were afraid of catching a bug!
+1. Why do programmers prefer dark mode? Because light attracts bugs!
 
-2. Why did the computer go to the doctor? It had a virus and needed to be cured!
+2. Why did the programmer go broke? Because he lost his domain in a phishing attack!
 
-3. Why did the cybersecurity expert bring a ladder to work? To reach new heights in network security!
+3. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 
-4. Why do programmers prefer dark mode? Because light attracts bugs and they prefer to code in the dark!
+4. Why did the computer go to the doctor? Because it had a virus and needed a byte!
  
 [ 
-Fri Jan 12 01:12:55 UTC 2024
+Sat Jan 13 01:11:44 UTC 2024
  ]
