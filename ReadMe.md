@@ -8,14 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why don't programmers like nature? It has too many bugs!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why did the computer go to the doctor? It had a virus!
+2. Why did the cybersecurity expert get thrown out of the theater? He was trying to hack the mainframe!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why did the programmer quit his job? Because he didn't get arrays!
 
-4. Why did the software engineer go broke? Because he lost his domain in a cyber attack!
+4. Why did the computer go to the doctor? Because it had a virus - it was feeling a bit "bytey"!
  
 [ 
-Tue Jan 16 01:12:17 UTC 2024
+Wed Jan 17 01:13:01 UTC 2024
  ]
