@@ -8,14 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the computer go to art school? Because it had a lot of malware-ware!
+1. Why did the software engineer go broke? Because he lost his domain in a bet!
 
-2. Why don't programmers like nature? Because they prefer artificial intelligence!
+2. Why was the computer cold? It left its Windows open!
 
-3. Why did the developer go broke? Because he lost his domain in a phishing attack!
+3. Why do programmers prefer dark mode? Because light attracts bugs!
 
-4. Why do computer scientists always mix up Christmas and Halloween? Because Oct 31 == Dec 25 in hexadecimal!
+4. Why did the cyber security expert bring a ladder to work? To reach new heights in network security!
  
 [ 
-Sat Jan 20 01:11:42 UTC 2024
+Sun Jan 21 01:17:54 UTC 2024
  ]
