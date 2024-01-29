@@ -1,12 +1,12 @@
  
-1. Why do programmers prefer dark mode? Because the light attracts bugs!
+1. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 
-2. Why did the developer go broke? Because he lost his domain in a DDoS attack!
+2. Why did the software engineer go broke? Because he lost all his cache!
 
-3. Why don't programmers like nature? They prefer artificial intelligence!
+3. Why did the cyber security expert bring a ladder to work? Because he wanted to scale the firewall!
 
-4. Why did the security analyst bring a ladder to work? Because they heard the system had a few "high-level" vulnerabilities!
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Sun Jan 28 01:11:47 UTC 2024
+Mon Jan 29 01:07:33 UTC 2024
  ]
