@@ -8,18 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-Sure, here are four jokes related to software engineering and cybersecurity:
+1. Why did the computer go to the doctor? It had a virus and needed a byte!
 
-1. Why did the developer go broke? Because he lost his domain in a bet!
+2. Why do programmers prefer dark mode? Because the light attracts bugs!
 
-2. Why did the computer take up singing? Because it had perfect pitch control!
+3. Why did the software engineer go broke? Because he lost his domain in a phishing attack!
 
-3. Why did the cybersecurity expert bring a ladder to work? Because he wanted to level up the security!
-
-4. Why did the programmer quit his job? Because he didn't get arrays of opportunities!
-
-Note: Jokes are subjective, and humor can vary from person to person.
+4. Why did the developer go broke? Because he couldn't find a loophole in his budget!
  
 [ 
-Thu Feb  1 01:10:50 UTC 2024
+Fri Feb  2 01:07:04 UTC 2024
  ]
