@@ -1,12 +1,12 @@
  
-1. Why did the software engineer go broke? Because he lost all his cache!
+1. Why did the software developer go broke? Because he lost his domain in a bet!
 
-2. Why did the cybersecurity expert bring a ladder to the office? Because he heard the security was on a higher level!
+2. Why did the computer catch a cold? It left its Windows open!
 
-3. Why was the computer cold? It left its Windows open!
+3. Why did the hacker go broke? He lost all his "Ctrl"!
 
-4. Why do programmers prefer dark mode? Because light attracts bugs!
+4. Why did the computer go to the doctor? It had a virus and needed a byte!
  
 [ 
-Sun Feb  4 01:11:35 UTC 2024
+Mon Feb  5 01:08:59 UTC 2024
  ]
