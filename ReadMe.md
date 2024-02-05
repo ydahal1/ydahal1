@@ -8,14 +8,14 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why couldn't the computer take its hat off? Because it had a bad case of CAPTCHA!
+1. Why did the software engineer go broke? Because he lost all his cache!
 
-2. Why did the programmer go broke? Because he lost his domain in a phishing attack!
+2. Why did the cybersecurity expert bring a ladder to the office? Because he heard the security was on a higher level!
 
-3. Why do programmers prefer dark mode? Because light attracts bugs!
+3. Why was the computer cold? It left its Windows open!
 
-4. Why did the computer go to the doctor? It had a virus and needed an injection of anti-virus!
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Sat Feb  3 01:05:44 UTC 2024
+Sun Feb  4 01:11:35 UTC 2024
  ]
