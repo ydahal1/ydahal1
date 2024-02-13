@@ -1,12 +1,16 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a bet!
+1. Why did the software engineer go broke?
+Because he tried to open too many windows.
 
-2. Why did the computer go to the doctor? Because it had a virus!
+2. Why did the computer go to the doctor?
+Because it had a virus!
 
-3. Why did the cyber security specialist always carry a pencil and paper? In case they needed to draw a firewall!
+3. Why do programmers always mix up Christmas and Halloween?
+Because Oct 31 == Dec 25!
 
-4. Why did the programmer get stuck in the shower? Because they forgot to use shampoo && conditioner!
+4. Why did the cybersecurity expert bring a ladder to work?
+Because they heard the system had a few bugs!
  
 [ 
-Mon Feb 12 01:07:14 UTC 2024
+Tue Feb 13 01:07:17 UTC 2024
  ]
