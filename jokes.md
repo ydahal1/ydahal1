@@ -1,16 +1,12 @@
  
-1. Why did the software engineer go broke?
-Because he tried to open too many windows.
+1. Why did the software developer go broke? Because he lost his domain in a bet!
 
-2. Why did the computer go to the doctor?
-Because it had a virus!
+2. I asked a cyber security expert if my password was strong enough. He said, "It's got to be at least eight characters long and include uppercase letters, numbers, and symbols." I replied, "Perfect, my password is 'password123'!"
 
-3. Why do programmers always mix up Christmas and Halloween?
-Because Oct 31 == Dec 25!
+3. Why do programmers prefer iOS development over Android? Because on iOS, there are no Java exceptions!
 
-4. Why did the cybersecurity expert bring a ladder to work?
-Because they heard the system had a few bugs!
+4. Why did the computer catch a virus? Because it had a bad driver!
  
 [ 
-Tue Feb 13 01:07:17 UTC 2024
+Wed Feb 14 01:07:24 UTC 2024
  ]
