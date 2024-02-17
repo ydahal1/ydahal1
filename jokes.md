@@ -1,12 +1,9 @@
  
-1. Why did the software engineer go broke? Because he lost his domain in a DDoS attack!
-
-2. Why do programmers prefer dark mode? Because light attracts bugs!
-
-3. Why did the computer go to the doctor? Because it had a virus!
-
-4. Why don't programmers like nature? Because they prefer the artificial intelligence!
+1. Why did the software engineer go broke? Because he lost all his cache!
+2. Why was the computer cold? It left its Windows open!
+3. Why did the cybersecurity expert get kicked out of the bakery? Because he kept trying to hack the bread!
+4. Why did the software developer go broke at the casino? Because he couldn't stop playing with his chips!
  
 [ 
-Fri Feb 16 01:06:51 UTC 2024
+Sat Feb 17 01:06:15 UTC 2024
  ]
