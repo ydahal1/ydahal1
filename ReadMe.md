@@ -8,11 +8,18 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-1. Why did the software engineer go broke? Because he lost all his cache!
-2. Why was the computer cold? It left its Windows open!
-3. Why did the cybersecurity expert get kicked out of the bakery? Because he kept trying to hack the bread!
-4. Why did the software developer go broke at the casino? Because he couldn't stop playing with his chips!
+1. Why was the computer cold?
+Because it left its Windows open.
+
+2. Why did the developer go broke?
+Because he used up all his cache.
+
+3. How does a computer catch fish?
+With its internet hook.
+
+4. Why was the cybersecurity expert always calm?
+Because he had a firewall.
  
 [ 
-Sat Feb 17 01:06:15 UTC 2024
+Sun Feb 18 01:10:45 UTC 2024
  ]
