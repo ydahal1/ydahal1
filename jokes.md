@@ -1,9 +1,12 @@
  
-1. Why did the software engineer go broke? Because he used up all his cache!
-2. Why was the computer cold? It left its Windows open!
-3. Why do programmers prefer dark mode? Because the light attracts bugs!
-4. Why did the hacker break up with his girlfriend? She kept changing her password!
+1. Why do programmers prefer dark mode? Because light attracts bugs!
+
+2. Why did the computer go to the doctor? Because it had a virus!
+
+3. Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+
+4. Why was the computer cold? It left its Windows open!
  
 [ 
-Tue Feb 20 01:05:42 UTC 2024
+Wed Feb 21 00:18:15 UTC 2024
  ]
