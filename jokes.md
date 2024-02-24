@@ -1,9 +1,9 @@
  
 1. Why was the computer cold? It left its Windows open.
-2. Why do programmers prefer dark mode? Because the light attracts bugs.
-3. Why was the computer cold? It left its Windows open.
-4. Why did the cybersecurity expert break up with their computer? It had too many trust issues.
+2. Why did the software developer go broke? Because he used up all his cache.
+3. Why do programmers prefer dark mode? It helps them avoid the glare of security alerts.
+4. Why did the cyber security expert break up with their partner? They couldn't handle their lack of encryption.
  
 [ 
-Fri Feb 23 00:17:55 UTC 2024
+Sat Feb 24 00:17:20 UTC 2024
  ]
