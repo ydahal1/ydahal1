@@ -1,9 +1,9 @@
  
-1. Why was the computer cold? It left its Windows open.
-2. Why did the computer go to the doctor? It had a virus!
-3. How do you comfort a JavaScript bug? You console it.
-4. Why was the programmer always calm? Because they had a byte of chocolate nearby.
+1. Why did the software engineer go broke? Because he used up all his cache!
+2. Why was the computer cold? It left its Windows open.
+3. Why did the cybersecurity expert always carry a pencil and paper? In case they needed to draw a firewall.
+4. Why did the programmer quit his job? Because he didn't get arrays.
  
 [ 
-Thu Feb 29 00:18:16 UTC 2024
+Fri Mar  1 00:20:36 UTC 2024
  ]
