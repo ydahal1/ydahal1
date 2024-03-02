@@ -1,9 +1,9 @@
  
-1. Why did the software engineer go broke? Because he used up all his cache!
+1. Why did the software developer go broke? Because he used up all his cache!
 2. Why was the computer cold? It left its Windows open.
-3. Why did the cybersecurity expert always carry a pencil and paper? In case they needed to draw a firewall.
-4. Why did the programmer quit his job? Because he didn't get arrays.
+3. Why did the cybersecurity expert break up with their partner? They couldn't handle their lack of encryption.
+4. Why do programmers prefer dark mode? Because light attracts bugs!
  
 [ 
-Fri Mar  1 00:20:36 UTC 2024
+Sat Mar  2 00:17:35 UTC 2024
  ]
