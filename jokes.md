@@ -1,9 +1,9 @@
  
-1. Why was the JavaScript developer sad? Because he didn't know how to console.log his emotions.
-2. Why did the cybersecurity expert always carry a pencil and paper? In case he needed to draw his firewall.
-3. How do you comfort a JavaScript bug? You console it.
-4. Why was the computer cold? It left its Windows open.
+1. Why do programmers prefer dark mode? Because the light attracts bugs.
+2. Why was the computer cold? It left its Windows open.
+3. Why did the cyber security expert break up with their calculator? They couldn't count on it to protect their data.
+4. Why did the programmer quit their job at the bakery? They couldn't handle the cookie security risks.
  
 [ 
-Sun Mar  3 00:19:52 UTC 2024
+Mon Mar  4 00:19:03 UTC 2024
  ]
