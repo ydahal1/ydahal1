@@ -1,9 +1,6 @@
  
-1. Why was the computer cold? It left its Windows open.
-2. Why did the software developer go broke? Because he used up all his cache.
-3. Why did the cyber security expert get locked out of his house? He forgot his password.
-4. Why do programmers prefer dark mode? Because the light attracts bugs.
+**1.** Why do programmers prefer dark mode? **Because light attracts bugs.** <br> **2.** Why did the programmer quit his job? **Because he didn't get arrays**. <br> **3.** Why did the developer go broke? **He used up all his cache**.<br> **4.** Why did the JavaScript developer wear glasses? **Because he couldn't C#**.
  
 [ 
-Thu Mar  7 00:15:03 UTC 2024
+Fri Mar  8 00:18:46 UTC 2024
  ]
