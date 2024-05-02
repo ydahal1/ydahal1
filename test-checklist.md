@@ -1,18 +1,12 @@
-- [ ] Validated Input field
-   - [ ] Not required for this PR 
-   - [ ] Required and completed
-- [ ] Updated related documentation
-   - [ ] Not required for this PR 
-   - [ ] Required and completed
-- [ ] Added Unit tests
-   - [ ] Not required for this PR 
-   - [ ] Required and completed
-- [ ] Validated Input field
-   - [ ] Not required for this PR 
-   - [ ] Required and completed
-- [ ] Updated related documentation
-   - [ ] Not required for this PR 
-   - [ ] Required and completed
-- [ ] Added Unit tests
-   - [ ] Not required for this PR 
-   - [ ] Required and completed
+Validated Input field
+- [ ] NA
+- [ ] Completed
+
+Updated related documentation
+- [ ] NA
+- [ ] Completed
+
+
+Added Unit tests
+- [ ] NA
+- [ ] Completed
