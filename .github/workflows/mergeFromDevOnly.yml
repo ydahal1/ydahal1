@@ -1,0 +1,19 @@
+name: Enforce PR Branch
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  enforce-pr-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if not from dev branch
+        run: |
+          if [[ "${{ github.head_ref }}" != "dev" ]]; then
+            echo "Pull requests must be from the 'dev' branch. Closing this pull request..."
+            gh pr close ${{ github.event.pull_request.number }} --repo ${{ github.repository }}
+          fi
+        env:
+          GH_TOKEN:  ${{ secrets.ACTIONS }}
