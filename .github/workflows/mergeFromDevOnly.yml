@@ -11,9 +11,8 @@ jobs:
     steps:
       - name: Fail if not from dev branch
         run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
           if [[ "${{ github.head_ref }}" != "dev" ]]; then
             echo "Pull requests must be from the 'dev' branch. Closing this pull request..."
             gh pr close ${{ github.event.pull_request.number }} --repo ${{ github.repository }}
           fi
-        env:
-          GH_TOKEN:  ${{ secrets.ACTIONS }}
