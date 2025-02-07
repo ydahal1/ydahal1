@@ -17,7 +17,7 @@ jobs:
         run: git pull
         
       - name: location and list files
-        run : |
+        run: |
           pwd
           ls
         
