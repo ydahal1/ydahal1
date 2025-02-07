@@ -21,28 +21,13 @@ jobs:
           pwd
           ls
         
-      - name: Make API request
+      - name: Make API request to fetch jokes
         run: |
-          api_response=$(curl --location --request POST \
-            'https://api.openai.com/v1/chat/completions' \
-            --header 'Content-Type: application/json' \
-            --header 'Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}' \
-            --data-raw '{
-              "model": "gpt-3.5-turbo",
-              "messages": [{"role": "user", "content": "Give me four jokes related to software engineering or cyber security "}],
-              "temperature": 0.7
-            }')
-          content_value=$(echo "$api_response" | jq -r '.choices[0].message.content')
-          
-          echo "Checking if null ----- $content_value"
-          
-          if [ -z "$content_value" ] || [ "$content_value" = "null" ]; then
-            echo "No new joks. Probably not enough credit in opneAI- load stale jokes"
-            content_value="**1.** Why do programmers prefer dark mode? **Because light attracts bugs.** <br> **2.** Why did the programmer quit his job? **Because he didn't get arrays**. <br> **3.** Why did the developer go broke? **He used up all his cache**.<br> **4.** Why did the JavaScript developer wear glasses? **Because he couldn't C#**."
-          fi
+          joke_response=$(curl -H "Accept: application/json" https://icanhazdadjoke.com/)
+          joke=$(echo "$joke_response" | jq -r '.joke')
 
           echo " " > jokes.md
-          echo "$content_value" >> jokes.md
+          echo "$joke" >> jokes.md
           echo " " >> jokes.md
           echo "[ " >> jokes.md
           echo "$(date)" >> jokes.md
@@ -59,4 +44,3 @@ jobs:
           commit-message: 'publish'
           force-add: 'true'
           name: Lion Tamer
-
