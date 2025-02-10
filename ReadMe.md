@@ -8,8 +8,8 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-What do you call a duck that gets all A's? A wise quacker.
+I got an A on my origami assignment when I turned my paper into my teacher
  
 [ 
-Sat Feb  8 00:23:41 UTC 2025
+Sun Feb  9 00:26:23 UTC 2025
  ]
