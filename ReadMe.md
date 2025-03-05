@@ -8,8 +8,10 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-What did the pirate say on his 80th birthday? Aye Matey!
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
  
 [ 
-Mon Mar  3 00:26:39 UTC 2025
+Tue Mar  4 00:25:21 UTC 2025
  ]
