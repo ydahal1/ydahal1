@@ -1,8 +1,7 @@
  
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
  
 [ 
-Tue Mar  4 00:25:21 UTC 2025
+Wed Mar  5 00:25:26 UTC 2025
  ]
