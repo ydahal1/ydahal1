@@ -1,6 +1,6 @@
  
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
  
 [ 
-Tue Mar 11 00:25:40 UTC 2025
+Wed Mar 12 00:25:23 UTC 2025
  ]
