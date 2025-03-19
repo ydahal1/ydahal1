@@ -1,6 +1,6 @@
  
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
  
 [ 
-Tue Mar 18 00:25:42 UTC 2025
+Wed Mar 19 00:26:06 UTC 2025
  ]
