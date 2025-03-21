@@ -1,6 +1,6 @@
  
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
  
 [ 
-Thu Mar 20 00:25:40 UTC 2025
+Fri Mar 21 00:26:04 UTC 2025
  ]
