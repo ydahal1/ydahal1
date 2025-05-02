@@ -1,6 +1,6 @@
  
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Did you hear the joke about the wandering nun? She was a roman catholic.
  
 [ 
-Thu May  1 00:30:55 UTC 2025
+Fri May  2 00:27:29 UTC 2025
  ]
