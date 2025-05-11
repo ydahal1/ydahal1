@@ -8,8 +8,8 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
  
 [ 
-Thu May  8 00:27:55 UTC 2025
+Sat May 10 00:26:38 UTC 2025
  ]
