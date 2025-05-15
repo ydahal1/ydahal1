@@ -1,6 +1,7 @@
  
-The best time on a clock is 6:30--hands down.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
  
 [ 
-Wed May 14 00:28:05 UTC 2025
+Thu May 15 00:27:13 UTC 2025
  ]
