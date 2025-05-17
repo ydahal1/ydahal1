@@ -1,6 +1,7 @@
  
-There are two types of people in this world, those who can extrapolate from incomplete data...
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
  
 [ 
-Fri May 16 00:28:32 UTC 2025
+Sat May 17 00:27:27 UTC 2025
  ]
