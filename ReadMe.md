@@ -8,8 +8,8 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What do birds give out on Halloween? Tweets.
  
 [ 
-Tue May 27 00:27:46 UTC 2025
+Wed May 28 00:28:23 UTC 2025
  ]
