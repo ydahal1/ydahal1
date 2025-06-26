@@ -1,6 +1,6 @@
  
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+People are shocked to discover I have a police record but I love their greatest hits!
  
 [ 
-Wed Jun 25 00:29:21 UTC 2025
+Thu Jun 26 00:28:54 UTC 2025
  ]
