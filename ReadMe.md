@@ -8,8 +8,8 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+Which is the fastest growing city in the world? Dublin'
  
 [ 
-Mon Aug 18 00:31:56 UTC 2025
+Tue Aug 19 00:28:34 UTC 2025
  ]
