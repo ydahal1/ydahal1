@@ -8,8 +8,8 @@
 I know you are here for jokes, No worries !!
 Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
  
-When is a door not a door? When it's ajar.
+What is a witch's favorite subject in school? Spelling!
  
 [ 
-Tue Oct  7 00:26:32 UTC 2025
+Wed Oct  8 00:26:31 UTC 2025
  ]
