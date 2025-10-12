@@ -1,6 +1,6 @@
  
-I used to be addicted to soap, but I'm clean now.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
  
 [ 
-Sat Oct 11 00:25:23 UTC 2025
+Sun Oct 12 00:28:20 UTC 2025
  ]
