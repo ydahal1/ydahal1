@@ -1,6 +1,6 @@
  
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+I got an A on my origami assignment when I turned my paper into my teacher
  
 [ 
-Wed Nov 26 00:29:08 UTC 2025
+Thu Nov 27 00:28:43 UTC 2025
  ]
