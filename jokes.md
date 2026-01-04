@@ -1,8 +1,6 @@
  
-How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
  
 [ 
-Sat Jan  3 00:29:23 UTC 2026
+Sun Jan  4 00:34:44 UTC 2026
  ]
