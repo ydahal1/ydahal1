@@ -1,8 +1,6 @@
  
-Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.
+Chances are if you' ve seen one shopping center, you've seen a mall.
  
 [ 
-Tue Jan  6 00:31:36 UTC 2026
+Wed Jan  7 00:30:24 UTC 2026
  ]
