@@ -5,5 +5,3 @@
 </picture>
 
 
-I know you are here for jokes, No worries !!
-Here are some new ones. Keep checking back for more laugh-out-loud jokes, brought to you by the dynamic duo of Chat GPT and GitHub Actions! __If they are not funny, blame OpenAI__
