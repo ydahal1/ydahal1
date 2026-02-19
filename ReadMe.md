@@ -6,8 +6,8 @@
 
 
  
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
  
 [ 
-Tue Feb 17 00:38:31 UTC 2026
+Wed Feb 18 00:39:01 UTC 2026
  ]
