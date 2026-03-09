@@ -6,8 +6,8 @@
 
 
  
-What's brown and sticky? A stick.
+Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
  
 [ 
-Sat Mar  7 00:36:22 UTC 2026
+Sun Mar  8 00:38:57 UTC 2026
  ]
