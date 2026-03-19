@@ -6,8 +6,8 @@
 
 
  
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
  
 [ 
-Tue Mar 17 00:37:09 UTC 2026
+Wed Mar 18 00:40:02 UTC 2026
  ]
