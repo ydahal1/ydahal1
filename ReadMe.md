@@ -6,8 +6,8 @@
 
 
  
-A farmer had 297 cows, when he rounded them up, he found he had 300
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
  
 [ 
-Sun May  3 00:56:34 UTC 2026
+Mon May  4 00:54:57 UTC 2026
  ]
