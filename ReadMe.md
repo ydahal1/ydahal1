@@ -6,8 +6,8 @@
 
 
  
-Is the pool safe for diving? It deep ends.
+When is a door not a door? When it's ajar.
  
 [ 
-Sun May 10 00:58:04 UTC 2026
+Mon May 11 00:58:20 UTC 2026
  ]
