@@ -1,6 +1,6 @@
  
-When is a door not a door? When it's ajar.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
  
 [ 
-Mon May 11 00:58:20 UTC 2026
+Tue May 12 00:52:40 UTC 2026
  ]
