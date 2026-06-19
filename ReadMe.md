@@ -6,8 +6,8 @@
 
 
  
-what do you call a dog that can do magic tricks? a labracadabrador
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
  
 [ 
-Wed Jun 17 01:10:33 UTC 2026
+Thu Jun 18 01:09:51 UTC 2026
  ]
