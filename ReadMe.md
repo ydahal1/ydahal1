@@ -6,10 +6,8 @@
 
 
  
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
  
 [ 
-Tue Aug  4 00:43:41 UTC 2026
+Wed Aug  5 00:40:11 UTC 2026
  ]
