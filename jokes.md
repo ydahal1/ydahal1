@@ -1,6 +1,7 @@
  
-How do you make holy water? You boil the hell out of it.
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
  
 [ 
-Sun Aug  9 00:25:04 UTC 2026
+Mon Aug 10 00:25:52 UTC 2026
  ]
