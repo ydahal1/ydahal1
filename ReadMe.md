@@ -6,8 +6,8 @@
 
 
  
-Waking up this morning was an eye-opening experience.
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
  
 [ 
-Mon Sep 28 00:49:02 UTC 2026
+Tue Sep 29 00:45:25 UTC 2026
  ]
