@@ -6,8 +6,8 @@
 
 
  
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+Why is no one friends with Dracula? Because he's a pain in the neck.
  
 [ 
-Sat Oct 17 00:38:56 UTC 2026
+Sun Oct 18 00:43:41 UTC 2026
  ]
