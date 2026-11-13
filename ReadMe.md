@@ -6,8 +6,9 @@
 
 
  
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
  
 [ 
-Wed Nov 11 00:25:24 UTC 2026
+Thu Nov 12 00:26:09 UTC 2026
  ]
