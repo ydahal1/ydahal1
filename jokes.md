@@ -1,6 +1,6 @@
  
-What do you call your friend who stands in a hole? Phil.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
  
 [ 
-Sun Nov 22 00:27:53 UTC 2026
+Mon Nov 23 00:28:27 UTC 2026
  ]
